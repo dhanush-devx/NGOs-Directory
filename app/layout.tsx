@@ -15,34 +15,37 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+      </head>
       <body>
         {/* Simple Navbar */}
         <nav className="bg-white border-b sticky top-0 z-50">
           <div className="container mx-auto px-4">
             <div className="grid grid-cols-3 items-center h-16">
               {/* Left: Logo */}
-              <Link href="/" className="flex items-center space-x-2 text-gray-900">
+              <Link href="/" className="flex items-center space-x-1 md:space-x-2 text-gray-900">
                 <Image 
                   src="/ngo-site-logo.png" 
                   alt="NGO Base Logo" 
                   width={32} 
                   height={32}
-                  className="w-8 h-8"
+                  className="w-6 h-6 md:w-8 md:h-8"
                 />
-                <span className="font-bold text-xl">NGOs Directory</span>
+                <span className="font-bold text-sm md:text-xl">NGOs Directory</span>
               </Link>
 
               {/* Center: Home */}
               <div className="flex justify-center">
-                <Link href="/" className="hover:text-blue-600 font-bold text-xl text-gray-900">
+                <Link href="/" className="hover:text-blue-600 font-bold text-sm md:text-xl text-gray-900">
                   Home
                 </Link>
               </div>
 
               {/* Right: Search NGOs */}
               <div className="flex justify-end">
-                <Link href="/ngos" className="hover:text-blue-600 font-bold text-xl text-gray-900">
-                  Search NGOs
+                <Link href="/ngos" className="hover:text-blue-600 font-bold text-sm md:text-xl text-gray-900">
+                  Search
                 </Link>
               </div>
             </div>

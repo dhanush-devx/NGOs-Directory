@@ -103,34 +103,34 @@ export default async function HomePage() {
       {/* CTA Section */}
       <section className="py-16 bg-blue-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-bold mb-4">
+          <h2 className="text-2xl md:text-4xl font-bold mb-8">
             Contact Us
           </h2>
-          <div className="grid grid-cols-5 gap-6 md:gap-10 text-center max-w-10xl mx-auto">
-            <div>
-              <div className="text-2xl font-semibold">Dhanush</div>
-              <div className="text-lg text-gray-200">Contact no:- 8850932041</div>
-              <div className="text-lg text-gray-200">Email:-✉️ yangoladhanush@gmail.com</div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 md:gap-8 max-w-7xl mx-auto">
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
+              <div className="text-xl md:text-2xl font-semibold mb-2">Dhanush</div>
+              <div className="text-sm md:text-base text-gray-200">Contact: 8850932041</div>
+              <div className="text-sm md:text-base text-gray-200 break-all">✉️ yangoladhanush@gmail.com</div>
             </div>
-            <div>
-              <div className="text-2xl font-semibold">Saloni</div>
-              <div className="text-lg text-gray-200">Contact no:- 8850932041</div>
-              <div className="text-lg text-gray-200">Email:-✉️  salonipatekar@gmail.com</div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
+              <div className="text-xl md:text-2xl font-semibold mb-2">Saloni</div>
+              <div className="text-sm md:text-base text-gray-200">📞 9969939409</div>
+              <div className="text-sm md:text-base text-gray-200 break-all">✉️ salonipatekar@gmail.com</div>
             </div>
-            <div>
-              <div className="text-2xl font-semibold">Rohan</div>
-              <div className="text-lg text-gray-200">Contact no:- 8850932041</div>
-              <div className="text-lg text-gray-200">Email:-✉️ rohanpalase2006@gmail.com</div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
+              <div className="text-xl md:text-2xl font-semibold mb-2">Rohan</div>
+              <div className="text-sm md:text-base text-gray-200">📞 9653244312</div>
+              <div className="text-sm md:text-base text-gray-200 break-all">✉️ rohanpalase2006@gmail.com</div>
             </div>
-            <div>
-              <div className="text-2xl font-semibold">Samiksha</div>
-              <div className="text-lg text-gray-200">Contact no:- 8850932041</div>
-              <div className="text-lg text-gray-200">Email:-✉️ s41864905@gmail.com</div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
+              <div className="text-xl md:text-2xl font-semibold mb-2">Samiksha</div>
+              <div className="text-sm md:text-base text-gray-200">📞 7208266873</div>
+              <div className="text-sm md:text-base text-gray-200 break-all">✉️ s41864905@gmail.com</div>
             </div>
-            <div>
-              <div className="text-2xl font-semibold">Premananda</div>
-              <div className="text-lg text-gray-200">Contact no:- 8850932041</div>
-              <div className="text-lg text-gray-200">Email:-✉️ premanandasahu4321@gmail.com</div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
+              <div className="text-xl md:text-2xl font-semibold mb-2">Premananda</div>
+              <div className="text-sm md:text-base text-gray-200">📞 8104224420</div>
+              <div className="text-sm md:text-base text-gray-200 break-all">✉️ premanandasahu4321@gmail.com</div>
             </div>
           </div>
         </div>

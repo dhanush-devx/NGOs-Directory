@@ -1,0 +1,1821 @@
+[
+  {
+    "id": 1,
+    "name": "Pratham",
+    "slug": "pratham",
+    "description": "Works to improve the quality of education in both rural and urban areas through innovative, low-cost interventions.",
+    "mission": "Every Child in School and Learning Well",
+    "vision": "To ensure that every child in India attains their learning potential through transformative education interventions",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Pratham",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Pratham",
+    "category": [
+      "Education",
+      "Child Welfare",
+      "Literacy"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Y.B. Chavan Center, 4th Floor, Gen. J. Bhosale Marg, Nariman Point"
+    },
+    "contact": {
+      "email": "info@pratham.org",
+      "phone": "+91-11-41651638",
+      "whatsapp": "+91-22-25000000"
+    },
+    "website": "https://www.pratham.org/",
+    "founded": "1995-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 2,
+    "name": "Smile Foundation",
+    "slug": "smile-foundation",
+    "description": "Works to improve the lives of over 20 lakh children and their families every year through education, healthcare, livelihood, and women empowerment programs.",
+    "mission": "To impact the lives of children and families through programmes on education, healthcare, livelihood and women empowerment",
+    "vision": "A world where all children have access to basic rights and equal opportunities for growth and development",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Smile",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Smile",
+    "category": [
+      "Education",
+      "Healthcare",
+      "Women Empowerment",
+      "Child Welfare"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "161 B/4, 3rd Floor, Gulmohar House, Yusuf Sarai Community Centre"
+    },
+    "contact": {
+      "email": "info@smilefoundationindia.org",
+      "phone": "+91-11-43123700",
+      "whatsapp": "+91-9999180854"
+    },
+    "website": "https://www.smilefoundationindia.org/",
+    "founded": "2002-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 3,
+    "name": "Teach For India",
+    "slug": "teach-for-india",
+    "description": "A nationwide movement to ensure that all children attain an excellent education through a two-year Fellowship program.",
+    "mission": "One day all children will attain an excellent education",
+    "vision": "All children in India will have the opportunity to attain an excellent education",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=TFI",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=TFI",
+    "category": [
+      "Education",
+      "Leadership Development",
+      "Teacher Training"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Godrej One, 2nd Floor, Pirojshanagar, Eastern Express Highway, Vikhroli (East)"
+    },
+    "contact": {
+      "email": "contact@teachforindia.org",
+      "phone": "+91-22-25194283",
+      "whatsapp": "+91-9876543210"
+    },
+    "website": "https://www.teachforindia.org/",
+    "founded": "2008-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 4,
+    "name": "Akshaya Patra Foundation",
+    "slug": "akshaya-patra",
+    "description": "Strives to eliminate classroom hunger by implementing the PM POSHAN program, serving nutritious meals to children.",
+    "mission": "No child in India shall be deprived of education because of hunger",
+    "vision": "To feed 3 million children everyday by 2025",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Akshaya",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Akshaya",
+    "category": [
+      "Education",
+      "Nutrition",
+      "Child Welfare"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "The Akshaya Patra Foundation, Bangalore"
+    },
+    "contact": {
+      "email": "info@akshayapatra.org",
+      "phone": "+91-80-30143400",
+      "whatsapp": "+91-9876543210"
+    },
+    "website": "https://www.akshayapatra.org/",
+    "founded": "2000-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 5,
+    "name": "CRY - Child Rights and You",
+    "slug": "cry-child-rights",
+    "description": "India's most trusted NGO working to ensure happier childhoods for underprivileged children through education, healthcare, and protection programs.",
+    "mission": "To ensure happier childhoods for India's children",
+    "vision": "A world where every child lives a life of dignity in a protective environment with opportunities to achieve his or her full potential",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CRY",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CRY",
+    "category": [
+      "Child Rights",
+      "Education",
+      "Healthcare",
+      "Child Protection"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "189/A, Anand Estate, Sane Guruji Marg"
+    },
+    "contact": {
+      "email": "cryinfo.mum@crymail.org",
+      "phone": "+91-22-26104106",
+      "whatsapp": "+91-9159115500"
+    },
+    "website": "https://www.cry.org/",
+    "founded": "1979-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 6,
+    "name": "Nanhi Kali",
+    "slug": "nanhi-kali",
+    "description": "Empowers girls across India through education by supporting them from Grades 6 to 10 with targeted educational initiatives and 21st century skills training.",
+    "mission": "To empower girls through education despite patriarchal challenges and societal biases",
+    "vision": "A world where girls are empowered through education to reach their full potential",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Nanhi",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Nanhi",
+    "category": [
+      "Girls Education",
+      "Women Empowerment",
+      "Education"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "K. C. Mahindra Education Trust, Cecil Court, Near Regal Cinema, Mahakavi Bhushan Marg"
+    },
+    "contact": {
+      "email": "support@nanhikali.org",
+      "phone": "+91-22-6897-5500",
+      "whatsapp": "+91-9890012175"
+    },
+    "website": "https://www.nanhikali.org/",
+    "founded": "1996-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 7,
+    "name": "Akanksha Foundation",
+    "slug": "akanksha",
+    "description": "Maximizes potential of children from underserved communities through English medium schools and alumni support programs in Mumbai, Pune, and Nagpur.",
+    "mission": "To impact the lives of children from low-income communities by providing them with a high-quality education",
+    "vision": "All children in India have access to a high-quality education that enables them to maximize their potential and transform their lives",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Akanksha",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Akanksha",
+    "category": [
+      "Education",
+      "Child Welfare",
+      "School Management"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Voltas Premises, Z Block Building, 2nd floor, T B Kadam Marg, Chinchpokli-East"
+    },
+    "contact": {
+      "email": "fundraise@akanksha.org",
+      "phone": "+91-22-23700253",
+      "whatsapp": "+91-9136017220"
+    },
+    "website": "https://akanksha.org/",
+    "founded": "1991-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 8,
+    "name": "Educate Girls",
+    "slug": "educate-girls",
+    "description": "Works with government, community and village-based volunteers to ensure every girl in remote parts of India is included, educated and empowered.",
+    "mission": "To mobilize communities to support girls' education and bring back out-of-school girls to school",
+    "vision": "Every girl in school and learning well",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=EG",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=EG",
+    "category": [
+      "Girls Education",
+      "Community Development",
+      "Education"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "C103/C104, 1st Floor, Remi Bizcourt, Shah Industrial Estate, Off Veera Desai Road, Andheri West"
+    },
+    "contact": {
+      "email": "info.in@educategirls.ngo",
+      "phone": "+91-22-48932226",
+      "whatsapp": "+91-9876543210"
+    },
+    "website": "https://www.educategirls.ngo/",
+    "founded": "2007-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 9,
+    "name": "Goonj",
+    "slug": "goonj",
+    "description": "Ignites self-worth and dignity of people across villages and cities, mobilizing them as equal stakeholders to solve their challenges using available resources.",
+    "mission": "To ignite the self-worth and dignity of common people and mobilize them as equal stakeholders",
+    "vision": "A world where every human being lives with dignity and has equal access to basic necessities",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Goonj",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Goonj",
+    "category": [
+      "Community Development",
+      "Rural Development",
+      "Social Welfare"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Madan Pur Khadar, Near Sunder Public School"
+    },
+    "contact": {
+      "email": "mail@goonj.org",
+      "phone": "+91-11-41401216",
+      "whatsapp": "+91-7042399564"
+    },
+    "website": "https://goonj.org/",
+    "founded": "1999-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 10,
+    "name": "eVidyaloka",
+    "slug": "evidyaloka",
+    "description": "Transforms education landscape in rural India by connecting children with volunteer teachers through digital classrooms and live interactive classes.",
+    "mission": "To create a knowledgeable and empowered India through quality education",
+    "vision": "Connecting passionate volunteers to provide quality education primarily for rural children",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=eVidyaloka",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=eVidyaloka",
+    "category": [
+      "Education",
+      "Digital Learning",
+      "Rural Education"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "2020, South End 'E' Main Road, 9th Block, Jayanagar"
+    },
+    "contact": {
+      "email": "talktosomeone@evidyaloka.org",
+      "phone": "+91-80-31223000",
+      "whatsapp": "+91-6361653155"
+    },
+    "website": "https://www.evidyaloka.org/",
+    "founded": "2011-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 11,
+    "name": "Deepalaya",
+    "slug": "deepalaya",
+    "description": "Works towards upliftment of children through education, vocational training, health and livelihood programs, enabling self-reliance for 46 years.",
+    "mission": "To enable self-reliance among underprivileged children, women and youth through education and vocational training",
+    "vision": "A society based on legitimate rights, equity, justice, honesty, social sensitivity and a culture of service in which all are self-reliant",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Deepalaya",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Deepalaya",
+    "category": [
+      "Education",
+      "Vocational Training",
+      "Women Empowerment",
+      "Child Welfare"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "46, Institutional Area, D Block, Janakpuri"
+    },
+    "contact": {
+      "email": "support@deepalaya.org",
+      "phone": "+91-11-28522263",
+      "whatsapp": "+91-8800797647"
+    },
+    "website": "https://deepalaya.org/",
+    "founded": "1979-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 12,
+    "name": "Katha",
+    "slug": "katha",
+    "description": "Creates fabulous books for children and uses StoryPedagogy to bring joy of meaningful learning, helping children create a kinder, more equal world.",
+    "mission": "To spread the joy of reading and help break down gender, social and other stereotypes",
+    "vision": "No child will live in poverty – social, personal, intellectual, cultural or environmental",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Katha",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Katha",
+    "category": [
+      "Education",
+      "Literacy",
+      "Child Welfare",
+      "Publishing"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "A-225, Shivalik, Near Gol Chakkar, Malviya Nagar"
+    },
+    "contact": {
+      "email": "info@katha.org",
+      "phone": "+91-11-41416600",
+      "whatsapp": "+91-8800797647"
+    },
+    "website": "https://www.katha.org/",
+    "founded": "1989-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+{
+    "id": 13,
+    "name": "INTACH",
+    "slug": "intach-heritage-trust",
+    "description": "Indian National Trust for Art and Cultural Heritage, India's largest heritage organization working towards conservation, restoration and preservation of built, natural, and intangible cultural heritage.",
+    "mission": "To sensitize the public about India's pluralistic cultural legacy and instill a sense of social responsibility towards preserving India's common heritage",
+    "vision": "Living in harmony with heritage enhances the quality of life, and it is the duty of every citizen of India",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=INTACH",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=INTACH",
+    "category": [
+      "Heritage Conservation",
+      "Cultural Preservation",
+      "Art Conservation",
+      "Natural Heritage"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "71, Lodhi Estate, New Delhi 110003"
+    },
+    "contact": {
+      "email": "intach@vsnl.net",
+      "phone": "+91-11-24631818",
+      "whatsapp": "+91-11-24641304"
+    },
+    "website": "https://www.intach.org",
+    "founded": "1984-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 14,
+    "name": "SPIC MACAY",
+    "slug": "spic-macay",
+    "description": "Society for the Promotion of Indian Classical Music And Culture Amongst Youth - a nationwide voluntary movement promoting Indian classical music, dance, folk arts and crafts in schools and colleges.",
+    "mission": "To promote Indian classical music, dance and culture amongst youth through lectures, demonstrations and workshops",
+    "vision": "To reach every child and enrich the quality of education by increasing awareness about different aspects of Indian heritage",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=SPIC",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=SPIC",
+    "category": [
+      "Classical Music",
+      "Cultural Education",
+      "Indian Arts",
+      "Youth Development"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "41/42 Lucknow Road, Near Vishwavidyalaya Metro Station"
+    },
+    "contact": {
+      "email": "info@spicmacay.com",
+      "phone": "+91-9760689747",
+      "whatsapp": "+91-8108098246"
+    },
+    "website": "https://www.spicmacay.org",
+    "founded": "1977-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 15,
+    "name": "CCRT",
+    "slug": "ccrt-cultural-resources",
+    "description": "Centre for Cultural Resources and Training under Ministry of Culture, providing cultural education, training programs, scholarships and preserving India's cultural heritage through various initiatives.",
+    "mission": "To link education with culture and preserve, promote and disseminate all forms of art and culture",
+    "vision": "To create cultural awareness and provide cultural education to all sections of society",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CCRT",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CCRT",
+    "category": [
+      "Cultural Education",
+      "Art Training",
+      "Scholarships",
+      "Cultural Preservation"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Centre for Cultural Resources and Training, New Delhi"
+    },
+    "contact": {
+      "email": "ccrtdelhi@nic.in",
+      "phone": "+91-11-23387915",
+      "whatsapp": "+91-11-23387916"
+    },
+    "website": "https://ccrtindia.gov.in",
+    "founded": "1979-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 16,
+    "name": "Kalakshetra Foundation",
+    "slug": "kalakshetra-foundation",
+    "description": "Founded by Rukmini Devi Arundale, a vital centre for the study and performance of fine arts, spreading over 100 acres by the seashore in Chennai, promoting Indian classical dance and music.",
+    "mission": "To impart to the young the true spirit of Art, devoid of vulgarity and commercialism",
+    "vision": "Creating a space where the essence of Indian thought finds expression through artistic education",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Kalakshetra",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Kalakshetra",
+    "category": [
+      "Classical Dance",
+      "Fine Arts",
+      "Cultural Education",
+      "Bharatanatyam"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "Kalakshetra Road, Thiruvanmiyur, Chennai 600041"
+    },
+    "contact": {
+      "email": "director@kalakshetra.in",
+      "phone": "+91-44-24523815",
+      "whatsapp": "+91-44-24524057"
+    },
+    "website": "https://kalakshetra.in",
+    "founded": "1936-01-01",
+    "teamSize": "300+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 17,
+    "name": "Craft Revival Trust",
+    "slug": "craft-revival-trust",
+    "description": "Dedicated to the revival, preservation and promotion of traditional Indian crafts and craftspeople, working to ensure the sustainability of India's craft heritage.",
+    "mission": "To revive, preserve and promote traditional Indian crafts and support craftspeople",
+    "vision": "A world where traditional crafts thrive and craftspeople live with dignity",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CRT",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CRT",
+    "category": [
+      "Traditional Crafts",
+      "Artisan Support",
+      "Cultural Heritage",
+      "Handicrafts"
+    ],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@craftrevival.org",
+      "phone": "+91-11-26851571",
+      "whatsapp": "+91-11-26851571"
+    },
+    "website": "https://craftrevival.org",
+    "founded": "1982-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 18,
+    "name": "NCSM",
+    "slug": "ncsm-science-museums",
+    "description": "National Council of Science Museums, the largest network of science centres/museums in the world, administering 26 Science Centres/Museums across India under Ministry of Culture.",
+    "mission": "To promote scientific temper and create awareness about science and technology through interactive exhibits and programs",
+    "vision": "To make science accessible to all through innovative museum experiences",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=NCSM",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=NCSM",
+    "category": [
+      "Science Education",
+      "Museums",
+      "Science Communication",
+      "Technology"
+    ],
+    "location": {
+      "country": "India",
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "address": "1, Block-GN, Sector-V, Salt Lake City, Kolkata 700091"
+    },
+    "contact": {
+      "email": "ncsm@ncsm.gov.in",
+      "phone": "+91-33-23357497",
+      "whatsapp": "+91-33-23357498"
+    },
+    "website": "https://ncsm.gov.in",
+    "founded": "1978-04-04",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+  "id": 19,
+  "name": "Akshaya Patra Foundation",
+  "slug": "akshaya-patra-health",
+  "description": "Strives to eliminate classroom hunger by implementing the PM POSHAN program, serving nutritious meals to children and supporting their health and educational outcomes.",
+  "mission": "No child in India shall be deprived of education because of hunger",
+  "vision": "To feed 3 million children everyday by 2025",
+  "logo": "https://placehold.co/200x200/3b82f6/fff?text=Akshaya",
+  "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Akshaya",
+  "category": ["Health NGO"],
+  "location": {
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "address": "The Akshaya Patra Foundation, Bangalore"
+  },
+  "contact": {
+    "email": "info@akshayapatra.org",
+    "phone": "+91-80-30143400",
+    "whatsapp": "+91-80-30143400"
+  },
+  "website": "https://www.akshayapatra.org",
+  "founded": "2000-01-01",
+  "teamSize": "1000+",
+  "verified": true,
+  "featured": true,
+  "views": 2150
+},
+{
+    "id": 20,
+    "name": "INTACH",
+    "slug": "intach-heritage-trust",
+    "description": "Indian National Trust for Art and Cultural Heritage, India's largest heritage organization working towards conservation, restoration and preservation of built, natural, and intangible cultural heritage.",
+    "mission": "To sensitize the public about India's pluralistic cultural legacy and instill a sense of social responsibility towards preserving India's common heritage",
+    "vision": "Living in harmony with heritage enhances the quality of life, and it is the duty of every citizen of India",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=INTACH",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=INTACH",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "71, Lodhi Estate, New Delhi 110003"
+    },
+    "contact": {
+      "email": "intach@vsnl.net",
+      "phone": "+91-11-24631818",
+      "whatsapp": "+91-11-24641304"
+    },
+    "website": "https://www.intach.org",
+    "founded": "1984-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 21,
+    "name": "SPIC MACAY",
+    "slug": "spic-macay",
+    "description": "Society for the Promotion of Indian Classical Music And Culture Amongst Youth - a nationwide voluntary movement promoting Indian classical music, dance, folk arts and crafts in schools and colleges.",
+    "mission": "To promote Indian classical music, dance and culture amongst youth through lectures, demonstrations and workshops",
+    "vision": "To reach every child and enrich the quality of education by increasing awareness about different aspects of Indian heritage",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=SPIC",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=SPIC",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "41/42 Lucknow Road, Near Vishwavidyalaya Metro Station"
+    },
+    "contact": {
+      "email": "info@spicmacay.com",
+      "phone": "+91-9760689747",
+      "whatsapp": "+91-8108098246"
+    },
+    "website": "https://www.spicmacay.org",
+    "founded": "1977-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 22,
+    "name": "CCRT",
+    "slug": "ccrt-cultural-resources",
+    "description": "Centre for Cultural Resources and Training under Ministry of Culture, providing cultural education, training programs, scholarships and preserving India's cultural heritage through various initiatives.",
+    "mission": "To link education with culture and preserve, promote and disseminate all forms of art and culture",
+    "vision": "To create cultural awareness and provide cultural education to all sections of society",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CCRT",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CCRT",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Centre for Cultural Resources and Training, New Delhi"
+    },
+    "contact": {
+      "email": "ccrtdelhi@nic.in",
+      "phone": "+91-11-23387915",
+      "whatsapp": "+91-11-23387916"
+    },
+    "website": "https://ccrtindia.gov.in",
+    "founded": "1979-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 23,
+    "name": "Kalakshetra Foundation",
+    "slug": "kalakshetra-foundation",
+    "description": "Founded by Rukmini Devi Arundale, a vital centre for the study and performance of fine arts, spreading over 100 acres by the seashore in Chennai, promoting Indian classical dance and music.",
+    "mission": "To impart to the young the true spirit of Art, devoid of vulgarity and commercialism",
+    "vision": "Creating a space where the essence of Indian thought finds expression through artistic education",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Kalakshetra",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Kalakshetra",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "Kalakshetra Road, Thiruvanmiyur, Chennai 600041"
+    },
+    "contact": {
+      "email": "director@kalakshetra.in",
+      "phone": "+91-44-24523815",
+      "whatsapp": "+91-44-24524057"
+    },
+    "website": "https://kalakshetra.in",
+    "founded": "1936-01-01",
+    "teamSize": "300+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 24,
+    "name": "Craft Revival Trust",
+    "slug": "craft-revival-trust",
+    "description": "Dedicated to the revival, preservation and promotion of traditional Indian crafts and craftspeople, working to ensure the sustainability of India's craft heritage.",
+    "mission": "To revive, preserve and promote traditional Indian crafts and support craftspeople",
+    "vision": "A world where traditional crafts thrive and craftspeople live with dignity",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CRT",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CRT",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@craftrevival.org",
+      "phone": "+91-11-26851571",
+      "whatsapp": "+91-11-26851571"
+    },
+    "website": "https://craftrevival.org",
+    "founded": "1982-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 25,
+    "name": "NCSM",
+    "slug": "ncsm-science-museums",
+    "description": "National Council of Science Museums, the largest network of science centres/museums in the world, administering 26 Science Centres/Museums across India under Ministry of Culture.",
+    "mission": "To promote scientific temper and create awareness about science and technology through interactive exhibits and programs",
+    "vision": "To make science accessible to all through innovative museum experiences",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=NCSM",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=NCSM",
+    "category": ["Art Cultural"],
+    "location": {
+      "country": "India",
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "address": "1, Block-GN, Sector-V, Salt Lake City, Kolkata 700091"
+    },
+    "contact": {
+      "email": "ncsm@ncsm.gov.in",
+      "phone": "+91-33-23357497",
+      "whatsapp": "+91-33-23357498"
+    },
+    "website": "https://ncsm.gov.in",
+    "founded": "1978-04-04",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+},
+{
+    "id": 26,
+    "name": "Chintan",
+    "slug": "chintan-environmental-research",
+    "description": "Works on circular economy, air pollution and climate change, using waste as a tool to fight poverty, child labour, gender-based violence and exclusion while creating green livelihoods.",
+    "mission": "To reduce waste and consumption, manage solid and electronic waste and advocate around materials, waste and consumption",
+    "vision": "A just and circular future with endless consumption and waste management solutions",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Chintan",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Chintan",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@chintan-india.org",
+      "phone": "+91-11-41421375",
+      "whatsapp": "+91-9811021048"
+    },
+    "website": "https://www.chintan-india.org/",
+    "founded": "1999-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 27,
+    "name": "SankalpTaru Foundation",
+    "slug": "sankalptaru-foundation",
+    "description": "IT-enabled NGO dedicated to restoring planet's green cover through afforestation, ecosystem restoration, water conservation, and community development with blockchain-based transparency.",
+    "mission": "To restore our planet's green cover and uplift communities across India through environmental and social initiatives",
+    "vision": "A cleaner, greener future—one tree at a time",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=SankalpTaru",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=SankalpTaru",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mumbai, Maharashtra"
+    },
+    "contact": {
+      "email": "support@sankalptaru.org",
+      "phone": "+91-22-48931791",
+      "whatsapp": "+91-9820052264"
+    },
+    "website": "https://sankalptaru.org/",
+    "founded": "2018-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 28,
+    "name": "Environmentalist Foundation of India (EFI)",
+    "slug": "efi-environmentalist-foundation",
+    "description": "Focuses on scientific revival of freshwater bodies through community-based collaborative conservation efforts, working across 18 Indian states to restore lakes and ponds.",
+    "mission": "To volunteer for India & her Environment through scientific revival of freshwater bodies",
+    "vision": "Environment conservation is No Choice, No Compulsion, It's Common Sense",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=EFI",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=EFI",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bengaluru, Karnataka"
+    },
+    "contact": {
+      "email": "contact@indiaenvironment.org",
+      "phone": "+91-80-41722114",
+      "whatsapp": "+91-9036777883"
+    },
+    "website": "https://indiaenvironment.org/",
+    "founded": "2011-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 29,
+    "name": "IISD India",
+    "slug": "iisd-india",
+    "description": "International Institute for Sustainable Development working on 15 national campaigns including climate action, sustainable consumption, and environmental awareness programs.",
+    "mission": "To promote sustainable development through research, policy work and campaigns",
+    "vision": "A sustainable world where people can live with dignity in a healthy environment",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=IISD",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=IISD",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "volunteer@iisdindia.in",
+      "phone": "+91-11-41421375",
+      "whatsapp": "+91-9811021048"
+    },
+    "website": "https://www.iisdindia.in/",
+    "founded": "2008-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 30,
+    "name": "Bhumi",
+    "slug": "bhumi-environmental",
+    "description": "Volunteer-driven organization working on environmental, animal welfare, and civic initiatives through the transformative power of volunteering and community engagement.",
+    "mission": "To build a society where every individual can reshape the conversation through volunteering",
+    "vision": "Transform India through volunteering, leadership and inspiration",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Bhumi",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Bhumi",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "Chennai, Tamil Nadu"
+    },
+    "contact": {
+      "email": "connect@bhumi.ngo",
+      "phone": "+91-44-48546510",
+      "whatsapp": "+91-9445246510"
+    },
+    "website": "https://bhumi.ngo",
+    "founded": "2006-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 31,
+    "name": "Green Yatra",
+    "slug": "green-yatra",
+    "description": "Leading environmental NGO working towards achieving SDGs through tree plantation, urban biodiversity conservation, water bodies restoration, and environmental research and awareness.",
+    "mission": "To achieve Sustainable Development Goals through environmental conservation and restoration",
+    "vision": "A devoted Green Yatra for a Greener and Sustainable World",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=GreenYatra",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=GreenYatra",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mumbai, Maharashtra"
+    },
+    "contact": {
+      "email": "info@greenyatra.org",
+      "phone": "+91-22-26204848",
+      "whatsapp": "+91-9819994848"
+    },
+    "website": "https://www.greenyatra.org",
+    "founded": "2007-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 32,
+    "name": "Greenpeace India",
+    "slug": "greenpeace-india",
+    "description": "Independent global campaigning organization acting to change attitudes and behavior, protect the environment and promote peace through non-violent creative action.",
+    "mission": "To ensure the ability of Earth to nurture life in all its diversity",
+    "vision": "A green and peaceful world",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Greenpeace",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Greenpeace",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bengaluru, Karnataka"
+    },
+    "contact": {
+      "email": "supporter.services.in@greenpeace.org",
+      "phone": "+91-80-41154125",
+      "whatsapp": "+91-9845570420"
+    },
+    "website": "https://www.greenpeace.org/india/",
+    "founded": "2001-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 33,
+    "name": "WWF India",
+    "slug": "wwf-india",
+    "description": "World Wildlife Fund India working for conservation of nature and building a community of conscious and empowered citizens to contribute to environmental conservation.",
+    "mission": "To stop the degradation of the planet's natural environment and build a future in which humans live in harmony with nature",
+    "vision": "A world where people and wildlife thrive together",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=WWF",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=WWF",
+    "category": ["Environment NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "172-B, Lodi Estate, New Delhi 110003"
+    },
+    "contact": {
+      "email": "info@wwfindia.net",
+      "phone": "+91-11-41504786",
+      "whatsapp": "+91-9811421786"
+    },
+    "website": "https://www.wwfindia.org",
+    "founded": "1969-01-01",
+    "teamSize": "300+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 34,
+    "name": "Team Everest",
+    "slug": "team-everest",
+    "description": "Volunteer-driven organization inspiring everyone to volunteer and making volunteering a habit, creating easy volunteering opportunities for individuals of all age groups globally.",
+    "mission": "To inspire everyone to volunteer and make volunteering as a habit",
+    "vision": "A world where volunteering is a way of life for everyone",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=TeamEverest",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=TeamEverest",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "Chennai, Tamil Nadu"
+    },
+    "contact": {
+      "email": "karthee@teameverest.ngo",
+      "phone": "+91-44-42018444",
+      "whatsapp": "+91-9840588444"
+    },
+    "website": "https://www.teameverest.ngo",
+    "founded": "2006-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 35,
+    "name": "Oxfam International",
+    "slug": "oxfam-international",
+    "description": "Global confederation of over 20 independent organizations working in over 70 countries to challenge inequality and injustice in partnership with communities.",
+    "mission": "To create a world without poverty where everyone has the power to thrive",
+    "vision": "A just world without poverty",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Oxfam",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Oxfam",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "4th & 5th Floor, Shriram Bharatiya Kala Kendra, 1, Copernicus Marg"
+    },
+    "contact": {
+      "email": "oxfam.del.info@oxfamindia.org",
+      "phone": "+91-11-41654000",
+      "whatsapp": "+91-11-41654000"
+    },
+    "website": "https://www.oxfam.org",
+    "founded": "1942-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 36,
+    "name": "GiveIndia",
+    "slug": "giveindia",
+    "description": "India's largest and most trusted donation platform connecting donors to verified NGOs to enable transparent and effective giving for social causes across the country.",
+    "mission": "To alleviate poverty by enabling the world to give",
+    "vision": "A world where giving is a way of life",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=GiveIndia",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=GiveIndia",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bengaluru, Karnataka"
+    },
+    "contact": {
+      "email": "info@giveindia.org",
+      "phone": "+91-80-67472222",
+      "whatsapp": "+91-9845672222"
+    },
+    "website": "https://giveindia.org",
+    "founded": "2000-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 37,
+    "name": "Smile Foundation",
+    "slug": "smile-foundation-poverty",
+    "description": "Works to improve the lives of over 20 lakh children and their families through comprehensive programs on education, healthcare, livelihood, and women empowerment.",
+    "mission": "To impact the lives of children and families through programmes on education, healthcare, livelihood and women empowerment",
+    "vision": "A world where all children have access to basic rights and equal opportunities for growth and development",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Smile",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Smile",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "161 B/4, 3rd Floor, Gulmohar House, Yusuf Sarai Community Centre"
+    },
+    "contact": {
+      "email": "info@smilefoundationindia.org",
+      "phone": "+91-11-43123700",
+      "whatsapp": "+91-9999180854"
+    },
+    "website": "https://smilefoundationindia.org",
+    "founded": "2002-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 38,
+    "name": "Goonj",
+    "slug": "goonj-poverty",
+    "description": "Ignites self-worth and dignity of people across villages and cities, mobilizing them as equal stakeholders to solve their challenges using available resources.",
+    "mission": "To ignite the self-worth and dignity of common people and mobilize them as equal stakeholders",
+    "vision": "A world where every human being lives with dignity and has equal access to basic necessities",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Goonj",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Goonj",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Madan Pur Khadar, Near Sunder Public School"
+    },
+    "contact": {
+      "email": "mail@goonj.org",
+      "phone": "+91-11-41401216",
+      "whatsapp": "+91-7042399564"
+    },
+    "website": "https://goonj.org",
+    "founded": "1999-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 39,
+    "name": "Akshaya Patra Foundation",
+    "slug": "akshaya-patra-poverty",
+    "description": "Strives to eliminate classroom hunger through nutritious meals, ensuring no child is deprived of education because of hunger while supporting their health outcomes.",
+    "mission": "No child in India shall be deprived of education because of hunger",
+    "vision": "To feed 3 million children everyday by 2025",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Akshaya",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Akshaya",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "The Akshaya Patra Foundation, Bangalore"
+    },
+    "contact": {
+      "email": "info@akshayapatra.org",
+      "phone": "+91-80-30143400",
+      "whatsapp": "+91-80-30143400"
+    },
+    "website": "https://akshayapatra.org",
+    "founded": "2000-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 40,
+    "name": "CARE India",
+    "slug": "care-india-poverty",
+    "description": "Leading not-for-profit organization empowering marginalized women and girls through health, education, livelihood initiatives and disaster relief across 21 states.",
+    "mission": "To work with poor and marginalized communities, particularly women and girls, to address underlying causes of poverty and social injustice",
+    "vision": "A world of hope, tolerance and social justice where poverty has been overcome and all people live in dignity and security",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=CARE",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=CARE",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "E-46/12, Okhla Industrial Area Phase 2"
+    },
+    "contact": {
+      "email": "contactus@careindia.org",
+      "phone": "+91-11-49101100",
+      "whatsapp": "+91-11-49101100"
+    },
+    "website": "https://www.careindia.org",
+    "founded": "1946-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 41,
+    "name": "Light of Life India",
+    "slug": "light-of-life-india",
+    "description": "Works to empower underprivileged communities through education, healthcare, and livelihood programs, focusing on holistic development and sustainable impact.",
+    "mission": "To bring light and hope to underprivileged communities through comprehensive development programs",
+    "vision": "A world where every individual has access to basic necessities and opportunities for growth",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=LightOfLife",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=LightOfLife",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mumbai, Maharashtra"
+    },
+    "contact": {
+      "email": "info@lightoflifeindia.org",
+      "phone": "+91-22-26780345",
+      "whatsapp": "+91-9820780345"
+    },
+    "website": "https://lightoflifeindia.org",
+    "founded": "1995-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 42,
+    "name": "S M Sehgal Foundation",
+    "slug": "sm-sehgal-foundation",
+    "description": "Works with rural communities to improve their quality of life through sustainable development programs focusing on water, agriculture, and local capacity building.",
+    "mission": "To improve the quality of life of rural communities in India",
+    "vision": "Transform lives for a more equitable, prosperous, and sustainable world",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Sehgal",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Sehgal",
+    "category": ["Poverty Livelihood NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Haryana",
+      "city": "Gurgaon",
+      "address": "Plot No. 34, Sector - 44, Institutional Area, Gurgaon 122003"
+    },
+    "contact": {
+      "email": "info@smsfoundation.org",
+      "phone": "+91-124-4675800",
+      "whatsapp": "+91-9810675800"
+    },
+    "website": "https://www.smsfoundation.org",
+    "founded": "1999-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 43,
+    "name": "PUCL",
+    "slug": "pucl-civil-liberties",
+    "description": "People's Union for Civil Liberties, India's premier human rights organization working for the protection of civil liberties and democratic rights of citizens.",
+    "mission": "To protect and promote civil liberties and human rights in India",
+    "vision": "A democratic India where civil liberties and human rights are respected and protected",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=PUCL",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=PUCL",
+    "category": ["Human Rights NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "270-A, Patpar Ganj, Opposite Anand Lok Apartments"
+    },
+    "contact": {
+      "email": "puclnat@yahoo.com",
+      "phone": "+91-11-22455015",
+      "whatsapp": "+91-9811455015"
+    },
+    "website": "http://www.pucl.org",
+    "founded": "1976-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 44,
+    "name": "People's Watch",
+    "slug": "peoples-watch",
+    "description": "Human rights organization working to defend and promote human rights through advocacy, documentation, research, and capacity building across India.",
+    "mission": "To promote and protect human rights and build a society based on justice, equality and human dignity",
+    "vision": "A world where human rights are respected, protected and fulfilled for all",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=PeoplesWatch",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=PeoplesWatch",
+    "category": ["Human Rights NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Madurai",
+      "address": "1st Floor, Natesan Complex, West Veli Street, Madurai 625001"
+    },
+    "contact": {
+      "email": "pwtn@peopleswatch.org",
+      "phone": "+91-452-2539520",
+      "whatsapp": "+91-9443539520"
+    },
+    "website": "https://www.peopleswatch.org/",
+    "founded": "1995-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 45,
+    "name": "Butterflies",
+    "slug": "butterflies-ngo",
+    "description": "Works with street and working children, advocating for their rights and providing direct services including education, healthcare and protection from abuse.",
+    "mission": "To enable street and working children to bring about positive changes in their lives",
+    "vision": "A world where every child's rights are protected and they can live with dignity",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Butterflies",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Butterflies",
+    "category": ["Human Rights NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "D - 25, Lower Ground Floor, Lajpat Nagar - I, New Delhi 110024"
+    },
+    "contact": {
+      "email": "butterflies.info@gmail.com",
+      "phone": "+91-11-29834506",
+      "whatsapp": "+91-9811834506"
+    },
+    "website": "http://butterfliesngo.org",
+    "founded": "1988-01-01",
+    "teamSize": "150+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 46,
+    "name": "HRLN",
+    "slug": "hrln-legal-network",
+    "description": "Human Rights Law Network, collective of lawyers and social activists using law as an instrument of social change and human rights protection across India.",
+    "mission": "To use law as an instrument of social change and ensure access to justice for all",
+    "vision": "A society where law serves as a tool for justice and human rights protection",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=HRLN",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=HRLN",
+    "category": ["Human Rights NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "576, Masjid Road, Jangpura, New Delhi 110014"
+    },
+    "contact": {
+      "email": "hrln@hrln.org",
+      "phone": "+91-11-24379855",
+      "whatsapp": "+91-9811379855"
+    },
+    "website": "https://hrln.org/",
+    "founded": "1989-01-01",
+    "teamSize": "300+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 47,
+    "name": "Youth Ki Awaaz",
+    "slug": "youth-ki-awaaz",
+    "description": "India's largest platform for youth expression, empowering young people to voice their opinions and create positive social change through digital media and community engagement.",
+    "mission": "To amplify the voice of young India and empower youth to create positive change",
+    "vision": "A world where every young person has the power to create meaningful impact",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=YKA",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=YKA",
+    "category": ["Youth Development NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Haryana",
+      "city": "Gurgaon",
+      "address": "Gurgaon, Haryana"
+    },
+    "contact": {
+      "email": "connect@youthkiawaaz.com",
+      "phone": "+91-124-4518888",
+      "whatsapp": "+91-9810518888"
+    },
+    "website": "https://www.youthkiawaaz.com",
+    "founded": "2008-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 48,
+    "name": "The YP Foundation",
+    "slug": "yp-foundation",
+    "description": "Feminist organization building the leadership of young people to advance human rights and social justice globally through programs on gender, sexuality, and youth leadership.",
+    "mission": "To build the leadership of young people to advance human rights and social justice",
+    "vision": "A world where all young people can live with dignity, safety and justice",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=YPF",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=YPF",
+    "category": ["Youth Development NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "connect@theypfoundation.org",
+      "phone": "+91-11-41421500",
+      "whatsapp": "+91-9811421500"
+    },
+    "website": "https://www.theypfoundation.org",
+    "founded": "2002-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 49,
+    "name": "UN Youth",
+    "slug": "un-youth",
+    "description": "United Nations youth program empowering young people worldwide to engage in sustainable development and global citizenship through education and advocacy.",
+    "mission": "To empower young people to be active global citizens and changemakers",
+    "vision": "A world where young people are empowered to create positive change",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=UNYouth",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=UNYouth",
+    "category": ["Youth Development NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@unyouth.org",
+      "phone": "+91-11-24697000",
+      "whatsapp": "+91-9811697000"
+    },
+    "website": "https://unyouth.org",
+    "founded": "1945-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 50,
+    "name": "AIESEC",
+    "slug": "aiesec-india",
+    "description": "World's largest youth-run organization developing leadership through cross-cultural exchanges, volunteer experiences, and professional internships globally.",
+    "mission": "To activate leadership potential in youth for them to have a positive impact on society",
+    "vision": "Peace and fulfillment of humankind's potential",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=AIESEC",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=AIESEC",
+    "category": ["Youth Development NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mumbai, Maharashtra"
+    },
+    "contact": {
+      "email": "info@aiesec.in",
+      "phone": "+91-22-28722888",
+      "whatsapp": "+91-9820722888"
+    },
+    "website": "https://aiesec.org",
+    "founded": "1948-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 51,
+    "name": "Akshaya Patra Foundation",
+    "slug": "akshaya-patra-food",
+    "description": "World's largest NGO-run mid-day meal program, serving nutritious meals to school children across India to eliminate classroom hunger and support education.",
+    "mission": "No child in India shall be deprived of education because of hunger",
+    "vision": "To feed 3 million children everyday by 2025",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Akshaya",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Akshaya",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "The Akshaya Patra Foundation, Bangalore"
+    },
+    "contact": {
+      "email": "info@akshayapatra.org",
+      "phone": "+91-80-30143400",
+      "whatsapp": "+91-80-30143400"
+    },
+    "website": "https://www.akshayapatra.org",
+    "founded": "2000-01-01",
+    "teamSize": "1000+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 52,
+    "name": "Feeding India",
+    "slug": "feeding-india",
+    "description": "Platform that channels surplus food from restaurants, weddings, and events to serve the underprivileged, fighting hunger and food wastage simultaneously.",
+    "mission": "To eliminate hunger and food wastage by channelling surplus food to those who need it",
+    "vision": "A world where no one goes to bed hungry while food is wasted",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=FeedingIndia",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=FeedingIndia",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@feedingindia.org",
+      "phone": "+91-11-47474747",
+      "whatsapp": "+91-9811474747"
+    },
+    "website": "https://www.feedingindia.org",
+    "founded": "2014-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 53,
+    "name": "Robin Hood Army",
+    "slug": "robin-hood-army",
+    "description": "Zero-fund volunteer organization that works to get surplus food from restaurants and communities to serve the less fortunate across India and globally.",
+    "mission": "To get surplus food from restaurants and communities to serve the less fortunate",
+    "vision": "A world where no food goes wasted while someone somewhere goes hungry",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=RHA",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=RHA",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "New Delhi"
+    },
+    "contact": {
+      "email": "info@robinhoodarmy.com",
+      "phone": "+91-11-41421616",
+      "whatsapp": "+91-9811421616"
+    },
+    "website": "https://robinhoodarmy.com",
+    "founded": "2014-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 54,
+    "name": "Annamrita Foundation",
+    "slug": "annamrita-foundation",
+    "description": "ISKCON Food Relief Foundation serving nutritious mid-day meals to school children across India, focusing on the holistic development of underprivileged children.",
+    "mission": "To provide nutritious meals to children and contribute to their overall development",
+    "vision": "Every child should have access to nutritious food for their holistic development",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Annamrita",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Annamrita",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Hare Krishna Land, Juhu, Mumbai 400049"
+    },
+    "contact": {
+      "email": "info@annamrita.org",
+      "phone": "+91-22-26206860",
+      "whatsapp": "+91-9820206860"
+    },
+    "website": "https://www.annamrita.org",
+    "founded": "2004-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 55,
+    "name": "No Food Waste",
+    "slug": "no-food-waste",
+    "description": "Initiative focused on reducing food wastage and redistributing surplus food to those in need, promoting sustainable food consumption practices.",
+    "mission": "To eliminate food waste and ensure surplus food reaches those who need it most",
+    "vision": "A world with zero food waste where everyone has access to nutritious meals",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=NoFoodWaste",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=NoFoodWaste",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bengaluru, Karnataka"
+    },
+    "contact": {
+      "email": "info@nofoodwaste.org",
+      "phone": "+91-80-41234567",
+      "whatsapp": "+91-9841234567"
+    },
+    "website": "https://www.nofoodwaste.org",
+    "founded": "2016-01-01",
+    "teamSize": "50+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 56,
+    "name": "Rise Against Hunger India",
+    "slug": "rise-against-hunger-india",
+    "description": "International hunger relief organization working to end hunger through food distribution, disaster relief response, and sustainable community development programs.",
+    "mission": "To end hunger in our lifetime by providing food and life-changing aid to the world's most vulnerable",
+    "vision": "A world without hunger",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=RiseAgainst",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=RiseAgainst",
+    "category": ["Food Relief NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bengaluru, Karnataka"
+    },
+    "contact": {
+      "email": "india@riseagainsthunger.org",
+      "phone": "+91-80-41528888",
+      "whatsapp": "+91-9845528888"
+    },
+    "website": "https://www.riseagainsthungerindia.org",
+    "founded": "1998-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 57,
+    "name": "Wildlife Trust of India",
+    "slug": "wildlife-trust-india",
+    "description": "Leading wildlife conservation organization working to conserve India's natural heritage through species conservation, habitat protection, and human-wildlife conflict mitigation.",
+    "mission": "To conserve wildlife and its habitat and to work for the welfare of individual wild animals",
+    "vision": "A secure natural heritage of India",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=WTI",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=WTI",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "A-220, New Friends Colony, New Delhi 110065"
+    },
+    "contact": {
+      "email": "info@wti.org.in",
+      "phone": "+91-11-26326025",
+      "whatsapp": "+91-9811326025"
+    },
+    "website": "https://www.wti.org.in",
+    "founded": "1998-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 58,
+    "name": "People For Animals",
+    "slug": "people-for-animals",
+    "description": "India's largest animal welfare organization founded by Maneka Gandhi, working for the welfare and rights of animals through rescue, shelter, and advocacy.",
+    "mission": "To protect the rights of animals and work for their welfare",
+    "vision": "A world where animals are treated with compassion and respect",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=PFA",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=PFA",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Sumer Singh Park, New Delhi 110003"
+    },
+    "contact": {
+      "email": "office.pfa@gmail.com",
+      "phone": "+91-11-24601621",
+      "whatsapp": "+91-9811601621"
+    },
+    "website": "https://www.peopleforanimalsindia.org",
+    "founded": "1992-01-01",
+    "teamSize": "500+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 59,
+    "name": "Blue Cross of India",
+    "slug": "blue-cross-india",
+    "description": "Animal welfare organization providing medical care, shelter, and rescue services for animals, while promoting humane education and compassionate treatment.",
+    "mission": "To alleviate the suffering of animals through compassionate care and treatment",
+    "vision": "A world where animals live free from suffering and cruelty",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=BlueCross",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=BlueCross",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "1, C.P. Ramaswamy Road, Alwarpet, Chennai 600018"
+    },
+    "contact": {
+      "email": "info@bluecrossofindia.org",
+      "phone": "+91-44-24321860",
+      "whatsapp": "+91-9841321860"
+    },
+    "website": "https://www.bluecrossofindia.org",
+    "founded": "1959-01-01",
+    "teamSize": "300+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 60,
+    "name": "Animal Aid Unlimited",
+    "slug": "animal-aid-unlimited",
+    "description": "Animal rescue organization in Udaipur dedicated to rescuing and treating the street animals of India, providing emergency care and sanctuary.",
+    "mission": "To rescue and treat street animals and provide them with the love and care they deserve",
+    "vision": "A world where every animal is treated with compassion and receives the care they need",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=AnimalAid",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=AnimalAid",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "address": "Badi Village, Near Badi Lake, Udaipur 313001"
+    },
+    "contact": {
+      "email": "info@animalaidunlimited.org",
+      "phone": "+91-294-2451248",
+      "whatsapp": "+91-9351451248"
+    },
+    "website": "https://www.animalaidunlimited.org",
+    "founded": "2002-01-01",
+    "teamSize": "150+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 61,
+    "name": "Wildlife SOS",
+    "slug": "wildlife-sos",
+    "description": "Wildlife conservation organization working to rescue and rehabilitate wildlife in distress, operating rescue centers and conducting conservation education programs.",
+    "mission": "To provide effective wildlife rescue and rehabilitation services while creating awareness about conservation",
+    "vision": "A world where wildlife and humans can coexist harmoniously",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=WildlifeSOS",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=WildlifeSOS",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "address": "Village Churmura, Post Jab, Mathura, Uttar Pradesh"
+    },
+    "contact": {
+      "email": "info@wildlifesos.org",
+      "phone": "+91-565-2502025",
+      "whatsapp": "+91-9560502025"
+    },
+    "website": "https://www.wildlifesos.org",
+    "founded": "1995-01-01",
+    "teamSize": "200+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  },
+  {
+    "id": 62,
+    "name": "Friendicoes SECA",
+    "slug": "friendicoes-seca",
+    "description": "Animal welfare organization providing shelter, medical care, and adoption services for abandoned animals while promoting responsible pet ownership.",
+    "mission": "To provide shelter and care for abandoned animals and promote responsible pet ownership",
+    "vision": "A compassionate society where every animal is valued and cared for",
+    "logo": "https://placehold.co/200x200/3b82f6/fff?text=Friendicoes",
+    "coverImage": "https://placehold.co/1200x400/3b82f6/fff?text=Friendicoes",
+    "category": ["Wildlife Safety NGOs"],
+    "location": {
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Jangpura Extension, New Delhi 110014"
+    },
+    "contact": {
+      "email": "friendicoes.seca@gmail.com",
+      "phone": "+91-11-24379876",
+      "whatsapp": "+91-9811379876"
+    },
+    "website": "https://www.friendicoes.org",
+    "founded": "1979-01-01",
+    "teamSize": "100+",
+    "verified": true,
+    "featured": true,
+    "views": 2150
+  }
+
+]

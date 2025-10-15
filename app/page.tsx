@@ -64,7 +64,7 @@ export default async function HomePage() {
             </div>
             <div>
               <div className="text-4xl md:text-5xl font-bold text-purple-600">
-                60+
+                10
               </div>
               <div className="text-gray-600 mt-4">Categories</div>
             </div>
